@@ -3,7 +3,7 @@ from langchain.vectorstores import FAISS
 from langchain_google_genai import ChatGoogleGenerativeAI
 from config import GOOGLE_API_KEY
 import requests
-
+#vubt
 LANG_CODE_NAME = {
     "en-IN": "English", "hi-IN": "Hindi", "bn-IN": "Bengali",
     "gu-IN": "Gujarati", "kn-IN": "Kannada", "ml-IN": "Malayalam",
