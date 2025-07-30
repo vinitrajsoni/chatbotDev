@@ -1,0 +1,42 @@
+
+[2025-07-08 11:25:28.465630] User: hi
+Bot: नमस्ते! मैं आपकी किस प्रकार सहायता कर सकता हूँ?
+
+[2025-07-08 11:25:48.717360] User: mujhe shram kanoon ke bare main janna hai
+Bot: नए श्रम संहिता के तहत, श्रमिकों के कल्याण के लिए कई सुधार किए गए हैं। प्रक्रियाएं सरल हो गई हैं और काम सफल हुए हैं। अब अस्थायी और प्लेटफ़ॉर्म श्रमिक "सामाजिक सुरक्षा योजना" से सुरक्षित हैं। असंगठित कामगारों को उनके सभी अधिकार मिले हैं। मेहनत का सम्मान, अधिकार एक समान और श्रम ही स्वाभिमान हो, इस पर जोर दिया गया है। कामगारों को पुनर्कौशलकरन के द्वारा हुनर के साथ तैयार किया गया है। मजदूर और मजबूत बने हैं, सुरक्षा का विश्वास बढ़ा है। प्रगति के द्वार खुल गए हैं, नारी को सम्मान और समान अधिकार मिले हैं। सामाजिक सुरक्षा का विस्तार हुआ है, असंगठित क्षेत्र के श्रमिकों को भी उनका अधिकार मिला है। श्रमिकों की खुशहाली का मंत्र जवाबदेह और सरल तंत्र है। श्रम सुविधा पोर्टल के माध्यम से उद्योग को रिटर्न दाखिल करने में आसानी प्रदान की गई। सरकार ने यह स्पष्ट किया कि यदि दृष्टिकोण सम्मानजनक है तो श्रमिक "श्रम योगी, राष्ट्र योगी और राष्ट्र निर्माता" बनते हैं। प्रधान मंत्री ने यह भी स्पष्ट किया कि श्रमिकों के मुद्दों को अब श्रमिकों के दृष्टिकोण से देखा जाना चाहिए। मोदी सरकार ने निरंतर सुधारों के माध्यम से श्रमिकों के हितों का ध्यान रखा है।
+
+[2025-07-08 11:37:26.829760] User: how are you?
+Bot: Sorry, this isn't relevant. Can I help with something else?
+
+[2025-07-08 11:52:49.763785] User: hello
+Bot: Hello! How can I help you?
+
+[2025-07-08 12:47:24.598815] User: hi
+Bot: नमस्ते! मैं आपकी किस प्रकार सहायता कर सकता हूँ?
+
+[2025-07-08 17:51:02.376145] User: who is the president of india
+Bot: Sorry, this isn't relevant. Can I help with something else?
+
+[2025-07-08 17:52:04.081864] User: mujhe labor laws ke bare main btao
+Bot: भारत में श्रम और रोजगार से संबंधित कानून को मुख्य रूप से "औद्योगिक कानून" की व्यापक श्रेणी के तहत जाना जाता है। प्रचलित सामाजिक और आर्थिक परिस्थितियों ने भारतीय श्रम कानून को आकार देने में काफी प्रभाव डाला है, जो काम के विभिन्न पहलुओं जैसे काम के घंटे, मजदूरी, सामाजिक सुरक्षा और प्रदान की जाने वाली सुविधाओं को विनियमित करते हैं।
+
+राज्य सरकारें कानून बनाने में सक्षम हैं। परिणामस्वरूप, श्रम के विभिन्न पहलुओं जैसे व्यावसायिक स्वास्थ्य, सुरक्षा, रोजगार, प्रशिक्षुओं का प्रशिक्षण, न्यूनतम मजदूरी का निर्धारण, समीक्षा और संशोधन, मजदूरी भुगतान का तरीका, दुर्घटनाओं के परिणामस्वरूप चोट लगने वाले या मृत्यु या विकलांगता का कारण बनने वाले श्रमिकों को मुआवजे का भुगतान, बंधुआ मजदूरी, ठेका मजदूरी, महिला मजदूरी और बाल श्रम को पूरा करने के लिए बड़ी संख्या में श्रम कानून बनाए गए हैं।
+
+बिल्डिंग एंड अदर कंस्ट्रक्शन वर्कर्स (रेगुलेशन ऑफ एम्प्लॉयमेंट एंड कंडीशंस ऑफ सर्विस) एक्ट, 1996 (BOCW (RE&CS) एक्ट) रोजगार और सेवा की शर्तों को विनियमित करने का प्रावधान करता है।
+
+[2025-07-09 14:17:03.316598] User: who is the prime minister of india?
+Bot: Prime Minister Narendra Modi
+
+[2025-07-09 14:17:23.954431] User: who is the president of india
+Bot: Sorry, this isn't relevant. Can I help with something else?
+
+[2025-07-14 15:38:01.337356] User: hi
+Bot: नमस्ते! मैं आपकी किस प्रकार सहायता कर सकता हूँ?
+
+[2025-07-14 15:39:07.168573] User: can you tell me about labor laws?
+Bot: Labour law, also known as employment law, is the body of laws, administrative rulings, and precedents which address the legal rights of, and restrictions on, working people and their organizations. It mediates many aspects of the relationship between trade unions, employers and employees, defining the rights and obligations as workers, union members and employers in the workplace.
+
+Generally, labour law covers:
+*   Industrial relations – certification of unions, labour-management relations, collective bargaining and unfair labour practices.
+*   Workplace health and safety.
+*   Employment standards, including general holidays, annual leave, working hours, unfair dismissals, minimum wage, layoff procedures and severance pay.
